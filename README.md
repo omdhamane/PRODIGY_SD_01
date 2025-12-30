@@ -4,6 +4,7 @@ This project includes a graphical user interface built using Python Tkinter for 
 
 
 🧠 Logic / Formula
+
 C → F = (C × 9/5) + 32
 
 C → K = C + 273.15
